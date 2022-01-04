@@ -241,7 +241,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1026.797653198242188, 238.430186629295349, 32.0, 22.0 ],
-					"text" : "4 0"
+					"text" : "2 0"
 				}
 
 			}
@@ -301,7 +301,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 948.484397292137146, 238.430186629295349, 32.0, 22.0 ],
-					"text" : "4 1"
+					"text" : "2 1"
 				}
 
 			}
@@ -361,7 +361,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 870.171141386032104, 238.430186629295349, 32.0, 22.0 ],
-					"text" : "4 0"
+					"text" : "2 1"
 				}
 
 			}
@@ -574,7 +574,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 791.857885479927063, 238.430186629295349, 32.0, 22.0 ],
-					"text" : "4 0"
+					"text" : "2 0"
 				}
 
 			}
@@ -2923,6 +2923,7 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-7",
